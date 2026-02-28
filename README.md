@@ -45,12 +45,10 @@ The system concept focuses on identifying early warning signals of wildfire risk
 
 ## Developed By
 
-This project was developed by the Codeniquee team as a conceptual showcase for innovative environmental AI solutions.
+The Codeniquee team developed this project as a conceptual showcase for innovative environmental AI solutions.
 
 ---
 
-## Project Type
 
-Conceptual AI platform landing page (Frontend showcase)
 
 
