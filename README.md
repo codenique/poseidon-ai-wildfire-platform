@@ -8,7 +8,7 @@ This project focuses on immersive storytelling, dark cinematic UI, and strong en
 
 ---
 
-# Project Objective
+## Project Objective
 
 To create a visually compelling and high-impact digital experience for an AI-driven environmental monitoring platform that detects early signs of wildfire through real-time social media image analysis.
 
