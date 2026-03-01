@@ -3,8 +3,9 @@ A high-performance landing page for an AI wildfire detection solution, designed 
 
 # Poseidon – AI Wildfire Detection Platform
 
-A modern landing page concept designed for an AI-powered wildfire detection solution.  
-This project focuses on immersive storytelling, dark cinematic UI, and strong environmental-tech branding.
+**Live Website:** https://poseidon-puce.vercel.app/
+
+A cinematic, high-impact landing page concept for an AI-powered wildfire detection and environmental monitoring platform.
 
 ---
 
